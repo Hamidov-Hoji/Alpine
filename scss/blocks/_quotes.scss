@@ -1,6 +1,6 @@
 .quotes {
   @include flexStyle(center, space-between);
-  transform: translateY(-550px)
+  transform: translateY(-500px)
 }
 .quotes__inner {
   @include flexStyle(center, flex-start);
